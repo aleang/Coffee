@@ -1,0 +1,17 @@
+{
+  "name": "node-service",
+  "version": "1.0.0",
+  "description": "Backend service for ordering coffee",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
